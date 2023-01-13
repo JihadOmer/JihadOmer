@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JihadOmer
 - 👀 I’m interested in coding, History and Langauges.
-- 🌱 I’m currently learning full stack development
-- 💞️ I’m looking to collaboration on open source project 
+- 🌱 I’m currently learning MERN stack development
+- 💞️ I’m looking to collaboration on open source projects
 - 📫 How to reach me jihadomer940@gmail.com
 
 <!---
