@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @JihadOmer
+- 👋 Hi, I’m @JihadOmer a full Stack dev.
 - 👀 I’m interested in coding, History and Langauges.
-- 🌱 I’m currently learning PERN stack development
+- 🌱 A full stack developer
+- 🎉 interesting in front-end libraries and frameworks
 - 💞️ I’m looking to collaboration on open source projects
 - 📫 How to reach me jihadomer940@gmail.com
 
