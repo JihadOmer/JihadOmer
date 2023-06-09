@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JihadOmer a full Stack dev.
+- 👋 Hey, I’m Jihad.
 - 👀 I’m interested in coding, History and Langauges.
 - 🌱 A full stack developer
 - 🎉 interesting in front-end libraries and frameworks
