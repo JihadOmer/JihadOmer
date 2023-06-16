@@ -1,8 +1,8 @@
 - 👋 Hey, I’m Jihad.
-- 👀 I’m interested in coding, History and Langauges.
+- 👀 Interested to coding, History and Langauges.
 - 🌱 A full stack developer
-- 🎉 interesting in front-end libraries and frameworks
-- 💞️ I’m looking to collaboration on open source projects
+- 🎉 Interesting in front-end libraries and frameworks
+- 💞️ Looking to collaboration on open source projects
 - 📫 How to reach me jihadomer940@gmail.com
 
 <!---
