@@ -4,6 +4,7 @@
 - 🎉 Interesting in front-end libraries and frameworks
 - 💞️ Looking to collaboration on open source projects
 - 📫 How to reach me jihadomer940@gmail.com
+- 🧑 My LinkedIn profile: https://www.linkedin.com/in/jihad-omer-5a6290243/
 
 <!---
 JihadOmer/JihadOmer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
