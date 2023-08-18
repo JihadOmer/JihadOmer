@@ -1,10 +1,11 @@
 - 👋 Hey, I’m Jihad.
-- 👀 Interested to coding, History and Langauges.
+- 👀 Interested in coding, History, Philosophy and Languages.
 - 🌱 A full stack developer
-- 🎉 Interesting in front-end libraries and frameworks
-- 💞️ Looking to collaboration on open source projects
+- 🎉 passionate about front-end libraries and frameworks.
+- 💞️ Looking to collaborate on open-source projects.
 - 📫 How to reach me jihadomer940@gmail.com
 - 🧑 My LinkedIn profile: https://www.linkedin.com/in/jihad-omer-5a6290243/
+- 🎊 My Portfolio: [jihad-omer.vercel.app ](https://jihad-omer.vercel.app/)
 
 <!---
 JihadOmer/JihadOmer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
