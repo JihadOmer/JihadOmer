@@ -1,7 +1,6 @@
 - 👋 Hey, I’m Jihad.
 - 👀 Interested in coding, History, Philosophy and Languages.
 - 🌱 A full stack developer
-- 🎉 passionate about front-end libraries and frameworks.
 - 💞️ Looking to collaborate on open-source projects.
 - 📫 How to reach me jihadomer940@gmail.com
 - 🧑 My LinkedIn profile: https://www.linkedin.com/in/jihad-omer-5a6290243/
